@@ -1,1 +1,2 @@
-# Ejemplo1_javasp1
+# Ejemplo1_javaSp
+Primer ejemplo
